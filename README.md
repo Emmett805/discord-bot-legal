@@ -1,4 +1,4 @@
-AetherRise Skygen — Legal Documentation
+# AetherRise Skygen — Legal Documentation
 This repository contains the official legal documents for the AetherRise Skygen ecosystem, including the Discord bot, Minecraft server, verification systems, and administrative workflows. These documents define how user data is handled, what rules apply, and how users can request data removal.
 
 📄 Included Documents
