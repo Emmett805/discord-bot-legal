@@ -1,4 +1,4 @@
-# Skygen Discord Bot — Privacy Policy
+# Aetherrise Skygen Discord Bot — Privacy Policy
 
 _Last updated: March 2026_
 
@@ -64,7 +64,7 @@ Application data may be deleted after review.
 
 ## 4. Data Sharing
 We may share data only with:
-- Skygen staff  
+- Aetherrise Skygen staff  
 - Discord (via API)  
 - Minecraft/Xbox APIs  
 
