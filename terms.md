@@ -1,8 +1,8 @@
-# Skygen Discord Bot — Terms of Service
+# Aetherrise Skygen Discord Bot — Terms of Service
 
 _Last updated: March 2026_
 
-These Terms of Service (“Terms”) govern your use of the Skygen Discord Bot, the Skygen Minecraft server, and all related systems (“Skygen”, “we”, “our”, “the Service”). By using any Skygen service, you agree to these Terms.
+These Terms of Service (“Terms”) govern your use of the Aetherrise Skygen Discord Bot, the Aetherrise Skygen Minecraft server, and all related systems (“Skygen”, “we”, “our”, “the Service”). By using any Aetherrise Skygen service, you agree to these Terms.
 
 ---
 
@@ -14,7 +14,7 @@ These Terms of Service (“Terms”) govern your use of the Skygen Discord Bot, 
 ---
 
 ## 2. Use of the Service
-By using Skygen, you agree to:
+By using Aetherrise Skygen, you agree to:
 - Follow all server rules and staff instructions.
 - Provide accurate information during verification or applications.
 - Not attempt to exploit, reverse-engineer, or disrupt the bot or server.
@@ -24,7 +24,7 @@ By using Skygen, you agree to:
 ---
 
 ## 3. Verification System
-Skygen may request:
+Aetherrise Skygen may request:
 - Discord ID  
 - Minecraft username  
 - Xbox Gamertag  
@@ -57,7 +57,7 @@ Applications may be:
 ---
 
 ## 5. Data Storage & Retention
-Skygen stores only the data required to operate the service.  
+Aetherrise Skygen stores only the data required to operate the service.  
 Data may include:
 - Discord IDs  
 - Minecraft usernames  
@@ -89,7 +89,7 @@ Violations may result in:
 ---
 
 ## 7. Service Availability
-Skygen is provided **“as is”** with no guarantee of:
+Aetherrise Skygen is provided **“as is”** with no guarantee of:
 - Uptime  
 - Feature availability  
 - Data accuracy  
@@ -100,7 +100,7 @@ We may modify or discontinue features at any time.
 ---
 
 ## 8. Limitation of Liability
-Skygen and its developers are **not liable** for:
+Aetherrise Skygen and its developers are **not liable** for:
 - Loss of data  
 - Account issues caused by third-party platforms  
 - Damages resulting from misuse of the bot  
