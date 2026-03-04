@@ -1,20 +1,19 @@
-# Aetherrise Skygen Discord Bot — Terms of Service
-
+# AetherRise Skygen Discord Bot — Terms of Service
 _Last updated: March 2026_
 
-These Terms of Service (“Terms”) govern your use of the Aetherrise Skygen Discord Bot, the Aetherrise Skygen Minecraft server, and all related systems (“Skygen”, “we”, “our”, “the Service”). By using any Aetherrise Skygen service, you agree to these Terms.
+These Terms of Service (“Terms”) govern your use of the AetherRise Skygen Discord Bot, the AetherRise Skygen Minecraft server, and all related systems (“Skygen”, “we”, “our”, “the Service”). By using any AetherRise Skygen service, you agree to these Terms.
 
 ---
 
 ## 1. Eligibility
-- You must be **13 years or older** to use the Service.
+- You must be 13 years or older to use the Service.
 - Users under 18 must have permission from a parent or guardian.
 - You must comply with Discord’s Terms of Service and Community Guidelines.
 
 ---
 
 ## 2. Use of the Service
-By using Aetherrise Skygen, you agree to:
+By using AetherRise Skygen, you agree to:
 - Follow all server rules and staff instructions.
 - Provide accurate information during verification or applications.
 - Not attempt to exploit, reverse-engineer, or disrupt the bot or server.
@@ -24,7 +23,7 @@ By using Aetherrise Skygen, you agree to:
 ---
 
 ## 3. Verification System
-Aetherrise Skygen may request:
+AetherRise Skygen may request:
 - Discord ID  
 - Minecraft username  
 - Xbox Gamertag  
@@ -57,7 +56,7 @@ Applications may be:
 ---
 
 ## 5. Data Storage & Retention
-Aetherrise Skygen stores only the data required to operate the service.  
+AetherRise Skygen stores only the data required to operate the service.  
 Data may include:
 - Discord IDs  
 - Minecraft usernames  
@@ -89,7 +88,7 @@ Violations may result in:
 ---
 
 ## 7. Service Availability
-Aetherrise Skygen is provided **“as is”** with no guarantee of:
+AetherRise Skygen is provided “as is” with no guarantee of:
 - Uptime  
 - Feature availability  
 - Data accuracy  
@@ -100,7 +99,7 @@ We may modify or discontinue features at any time.
 ---
 
 ## 8. Limitation of Liability
-Aetherrise Skygen and its developers are **not liable** for:
+AetherRise Skygen and its developers are not liable for:
 - Loss of data  
 - Account issues caused by third-party platforms  
 - Damages resulting from misuse of the bot  
