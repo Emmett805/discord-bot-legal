@@ -2,12 +2,12 @@
 
 _Last updated: March 2026_
 
-This Privacy Policy explains what data Skygen collects, how it is used, and how you can request deletion.
+This Privacy Policy explains what data Aetherrise Skygen collects, how it is used, and how you can request deletion.
 
 ---
 
 ## 1. Information We Collect
-Skygen collects only the data required to operate the bot and server.
+Aetherrise Skygen collects only the data required to operate the bot and server.
 
 ### 1.1 Discord Data
 - Discord ID  
