@@ -1,121 +1,139 @@
 # AetherRise Skygen Discord Bot — Terms of Service
 _Last updated: March 2026_
 
-These Terms of Service (“Terms”) govern your use of the AetherRise Skygen Discord Bot, the AetherRise Skygen Minecraft server, and all related systems (“Skygen”, “we”, “our”, “the Service”). By using any AetherRise Skygen service, you agree to these Terms.
+These Terms of Service (“Terms”) govern the use of the AetherRise Skygen Discord Bot, the AetherRise Skygen Minecraft server, and any related systems or services (collectively referred to as “AetherRise Skygen”, “Skygen”, “we”, or “the Service”). By accessing or using any AetherRise Skygen service, you agree to comply with these Terms.
 
 ---
 
 ## 1. Eligibility
-- You must be 13 years or older to use the Service.
-- Users under 18 must have permission from a parent or guardian.
-- You must comply with Discord’s Terms of Service and Community Guidelines.
+
+- Users must be at least **13 years old** to use the Service.  
+- Users under **18 years old** should have permission from a parent or legal guardian.  
+- All users must comply with the terms and community guidelines set by Discord.
 
 ---
 
-## 2. Use of the Service
+## 2. Acceptable Use
+
 By using AetherRise Skygen, you agree to:
-- Follow all server rules and staff instructions.
-- Provide accurate information during verification or applications.
-- Not attempt to exploit, reverse-engineer, or disrupt the bot or server.
-- Not impersonate staff or other users.
-- Not use Skygen for harassment, abuse, or illegal activity.
+
+- Follow all server rules and staff instructions.  
+- Provide accurate information during verification or application processes.  
+- Avoid attempting to exploit, reverse-engineer, or disrupt the bot or server systems.  
+- Not impersonate staff members or other users.  
+- Not use the Service for harassment, abuse, or illegal activities.
+
+Failure to follow these guidelines may result in moderation actions.
 
 ---
 
 ## 3. Verification System
-AetherRise Skygen may request:
-- Discord ID  
+
+The AetherRise Skygen verification system may request certain information, including:
+
+- Discord user ID  
 - Minecraft username  
 - Xbox Gamertag  
-- Public Xbox/Minecraft API profile data  
+- Public Minecraft or Xbox profile data from official APIs  
 
-This information is used solely for:
-- Linking accounts  
-- Assigning roles  
-- Displaying in-game or Discord profile data  
-- Preventing impersonation or fraud  
+This information is used only for purposes such as:
 
-You agree not to:
+- Linking user accounts  
+- Assigning Discord roles  
+- Displaying in-game or community profile data  
+- Preventing impersonation or fraudulent activity  
+
+Users must not:
+
 - Provide false verification information  
-- Attempt to bypass verification  
-- Use another user’s identity  
+- Attempt to bypass verification systems  
+- Use another person's identity during verification
 
 ---
 
 ## 4. Admin Applications
-When submitting an application, you consent to:
-- Staff reviewing your responses  
-- Staff storing your application until it is processed  
-- Staff making a final decision without appeal  
 
-Applications may be:
-- Approved  
-- Denied  
-- Deleted after processing  
+When submitting an administrator application, you acknowledge that:
+
+- Staff members may review your responses.  
+- Application data may be stored until the review process is completed.  
+- Staff decisions regarding applications are final.
+
+Applications may be approved, denied, or deleted after the review process.
 
 ---
 
-## 5. Data Storage & Retention
-AetherRise Skygen stores only the data required to operate the service.  
-Data may include:
-- Discord IDs  
+## 5. Data Storage and Retention
+
+AetherRise Skygen stores only the information necessary to operate its services. This may include:
+
+- Discord user IDs  
 - Minecraft usernames  
 - Xbox Gamertags  
 - Verification timestamps  
 - Application responses  
-- Moderation logs  
+- Moderation or administrative logs  
 
-Data is retained:
-- As long as your account is active  
-- Or until you request deletion (unless required for moderation or security)
+Data may be retained:
+
+- While your account remains active within the community  
+- Until a deletion request is submitted, unless retention is required for moderation or security purposes
 
 ---
 
 ## 6. Prohibited Behavior
-You may not use Skygen to:
-- Harass, threaten, or harm others  
-- Spread malware or attempt to hack the bot/server  
-- Automate actions that disrupt the service  
-- Evade bans or punishments  
-- Collect data on other users  
 
-Violations may result in:
+Users may not use AetherRise Skygen services to:
+
+- Harass, threaten, or harm other users  
+- Attempt to hack, exploit, or distribute malware  
+- Use automation or scripts that disrupt the Service  
+- Evade bans, punishments, or moderation systems  
+- Collect or harvest data from other users without permission  
+
+Violations may result in actions such as:
+
 - Removal from the server  
 - Revocation of bot access  
-- Permanent bans  
-- Reporting to Discord Trust & Safety  
+- Temporary or permanent bans  
+- Reports to Discord Trust & Safety if necessary
 
 ---
 
 ## 7. Service Availability
-AetherRise Skygen is provided “as is” with no guarantee of:
-- Uptime  
+
+AetherRise Skygen services are provided **“as is”** without guarantees regarding:
+
+- Continuous uptime  
 - Feature availability  
 - Data accuracy  
-- Continued support  
+- Long-term service support  
 
-We may modify or discontinue features at any time.
+Features may be modified, restricted, or discontinued at any time.
 
 ---
 
 ## 8. Limitation of Liability
-AetherRise Skygen and its developers are not liable for:
-- Loss of data  
-- Account issues caused by third-party platforms  
-- Damages resulting from misuse of the bot  
-- Actions taken by staff or automated systems  
 
-Your use of the Service is at your own risk.
+The AetherRise Skygen team and its developers are not responsible for:
+
+- Data loss or corruption  
+- Account issues caused by third-party platforms  
+- Damages resulting from misuse of the Service  
+- Moderation decisions made by staff or automated systems  
+
+Use of the Service is entirely at your own risk.
 
 ---
 
 ## 9. Changes to These Terms
-We may update these Terms at any time.  
-Continued use of the Service means you accept the updated Terms.
+
+These Terms may be updated periodically. Continued use of AetherRise Skygen services after updates indicates acceptance of the revised Terms.
 
 ---
 
 ## 10. Contact
-For questions or concerns, email:
 
-**emmettweddell14@gmail.com**
+For questions or concerns regarding these Terms, contact:
+
+emmettweddell14@gmail.com
