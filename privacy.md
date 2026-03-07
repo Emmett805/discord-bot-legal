@@ -1,144 +1,151 @@
 # AetherRise Skygen Discord Bot — Privacy Policy
 _Last updated: March 2026_
 
-This Privacy Policy explains what data AetherRise Skygen collects, how it is used, how it is stored, and how users may request access or deletion. By using any AetherRise Skygen service, you agree to the practices described in this policy.
+This Privacy Policy describes what information AetherRise Skygen collects, how it is used, how it is stored, and how users can request access or deletion of their data. By using AetherRise Skygen services, you agree to the practices outlined in this policy.
 
 ---
 
 ## 1. Information We Collect
 
-AetherRise Skygen collects only the information required to operate the Discord bot, Minecraft server, verification systems, and administrative workflows.
+AetherRise Skygen collects only the information necessary to operate the Discord bot, Minecraft server, verification systems, and administrative tools.
 
 ### 1.1 Discord Data
-- Discord ID  
+The following information may be collected from Discord:
+
+- Discord user ID  
 - Username and discriminator  
-- Roles and permissions  
-- Messages sent to the bot (commands, verification info, applications)  
-- Interaction logs (buttons, forms, menus)
+- Server roles and permissions  
+- Messages sent directly to the bot (commands, verification data, applications)  
+- Interaction data such as button presses, form submissions, and menu selections
 
 ### 1.2 Minecraft / Xbox Data
+To support account verification and linking, we may collect:
+
 - Minecraft username  
 - Minecraft UUID  
 - Xbox Gamertag  
-- Public Xbox profile data  
+- Public Xbox profile information  
 - Verification timestamps  
-- Temporary verification codes (Minecraft and emergency codes)
+- Temporary verification codes (including Minecraft codes and emergency codes)
 
 ### 1.3 Application Data
-If you submit an admin application, we collect:
+If you submit an administrator application, we may collect:
+
 - Application responses  
-- Discord ID  
-- Submission date  
-- Staff review notes and decision  
+- Discord user ID  
+- Submission date and time  
+- Staff review notes and decisions
 
 ### 1.4 System and Security Logs
-For moderation, security, and debugging:
-- Join/leave logs  
-- Punishment logs  
+For moderation, security, and system maintenance, the following logs may be recorded:
+
+- Server join and leave logs  
+- Moderation and punishment logs  
 - Verification attempts  
-- Admin actions  
+- Administrative actions  
 - Bot error logs  
-- Emergency code generation logs  
+- Emergency code generation logs
 
 ---
 
 ## 2. How We Use Your Data
 
-Your data is used to operate and secure the AetherRise Skygen ecosystem, including:
+Collected data is used to operate and maintain the AetherRise Skygen ecosystem, including:
 
 - Verifying account ownership  
-- Linking Discord ↔ Minecraft/Xbox accounts  
-- Assigning and removing roles  
-- Preventing impersonation  
+- Linking Discord accounts with Minecraft or Xbox accounts  
+- Assigning and managing server roles  
+- Preventing impersonation or abuse  
 - Processing staff applications  
-- Moderation and community safety  
-- Improving bot reliability and features  
+- Supporting moderation and community safety  
+- Improving bot functionality and reliability
 
-AetherRise Skygen does **not** sell, rent, or share your data with advertisers or unrelated third parties.
+AetherRise Skygen does **not sell, rent, or distribute user data** to advertisers or unrelated third parties.
 
 ---
 
 ## 3. Data Retention
 
-We retain data only as long as necessary for operation and security:
+Data is retained only for as long as necessary to operate the services and maintain security.
+
+Examples include:
 
 - Verification data is kept until it expires or is used  
-- Account‑linking data is kept while your account remains active  
-- Application data may be deleted after review  
-- Logs may be retained longer for moderation or security purposes  
+- Account linking data is stored while the account remains active  
+- Application data may be removed after the review process  
+- Logs may be stored longer when required for moderation or security investigations
 
-You may request deletion at any time unless the data is required for safety or fraud prevention.
+Users may request deletion at any time unless the data must be retained for safety, moderation, or fraud prevention.
 
 ---
 
 ## 4. Data Sharing
 
-We only share data with:
+User data may only be shared with:
 
-- AetherRise Skygen staff responsible for moderation and verification  
-- Discord, through the official Discord API  
-- Minecraft/Xbox services, through public or authorized APIs  
+- Authorized AetherRise Skygen staff responsible for moderation and verification  
+- Discord through the official Discord API  
+- Minecraft or Xbox services through publicly available or authorized APIs
 
-We do not share data with advertisers, data brokers, or external companies.
+Data is **not shared with advertisers, marketing companies, or data brokers.**
 
 ---
 
 ## 5. Data Security
 
-We take reasonable measures to protect your data, including:
+Reasonable security measures are implemented to protect stored information, including:
 
-- Restricted staff access  
-- Secure storage of verification data  
-- Encrypted communication where possible  
-- Automated systems to detect unauthorized access  
-- Regular review of logs and security events  
+- Restricted staff access to sensitive data  
+- Secure storage of verification information  
+- Encrypted communications where available  
+- Automated monitoring for suspicious activity  
+- Periodic review of system and security logs
 
-No system is completely secure, but we work to minimize risks and protect user information.
+While no system can guarantee absolute security, efforts are made to minimize risk and protect user information.
 
 ---
 
-## 6. Your Rights
+## 6. User Rights
 
-You may request:
+Users may request the following:
 
-- A copy of your stored data  
+- Access to the data stored about them  
 - Correction of inaccurate information  
-- Deletion of your data  
+- Deletion of stored personal data
 
-We may deny deletion requests if:
+Requests may be denied if:
 
-- The data is required for moderation or security  
-- The request is fraudulent or abusive  
-- Deletion would compromise server integrity  
+- The information is required for moderation or security purposes  
+- The request appears fraudulent or abusive  
+- Removing the data would compromise system integrity or investigations
 
 ---
 
 ## 7. Data Deletion Requests
 
-To request deletion, email:
+To request deletion of your data, contact:
 
-**emmettweddell14@gmail.com**
+emmettweddell14@gmail.com
 
-Include:
+Please include the following information when submitting a request:
 
-- Discord ID  
+- Discord user ID  
 - Minecraft username  
 - Xbox Gamertag (if applicable)  
-- What data you want removed  
+- A description of the data you want removed
 
-We will respond within 30 days.
+Requests are typically reviewed and responded to within **30 days**.
 
 ---
 
-## 8. Changes to This Policy
+## 8. Policy Updates
 
-We may update this Privacy Policy at any time.  
-Continued use of AetherRise Skygen services after changes means you accept the updated policy.
+This Privacy Policy may be updated periodically. Continued use of AetherRise Skygen services after updates indicates acceptance of the revised policy.
 
 ---
 
 ## 9. Contact
 
-For privacy questions or concerns, contact:
+For privacy-related questions or concerns, contact:
 
-**emmettweddell14@gmail.com**
+emmettweddell14@gmail.com
